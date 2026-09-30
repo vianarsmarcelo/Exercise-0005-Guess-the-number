@@ -1,0 +1,6 @@
+{
+  "Name": "Exercise 005_Guess the number",
+  "ProjectType": "Process",
+  "Description": "Create a sequence where the user has to guess a secret number between 1 and 50. The user is given three attempts to guess the number correctly. After each guess a message will let the user know whether the guess was correct or incorrect. At the end a message box will display the correct number.",
+  "MainFile": "Main.xaml"
+}
